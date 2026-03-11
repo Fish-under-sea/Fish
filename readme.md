@@ -62,7 +62,7 @@
 ### AI生成效果图
 
 
-![alt text](1.png) ![alt text](2.png)
+![alt text](电子猫主体渲染.png) ![alt text](手控端渲染.png)
 
 ---
 
